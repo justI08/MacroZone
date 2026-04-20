@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "macroZone",
-    "slug": "macroZone",
+    "slug": "microzone",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -39,6 +39,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "49baff3c-923a-463a-ad46-eee636f203c6"
+      }
+    },
+    "owner": "werter08"
   }
 }
